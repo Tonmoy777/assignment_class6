@@ -1,4 +1,4 @@
-const search = "A+";
+const search = prompt("Enter blood group");
 
 // filter data
 const result = bloodDonor.filter(
